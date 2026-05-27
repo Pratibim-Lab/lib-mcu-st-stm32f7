@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F7/STM32F765NIHx:STM32F765NIHx",
+  "name": "STM32F765NIHx",
+  "library": "MCU_ST_STM32F7",
+  "file": "MCU_ST_STM32F7.kicad_symdir/STM32F765NIHx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 512KB RAM, 216 MHz, 1.7-3.6V, 168 GPIO, TFBGA216",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f765ni.pdf",
+  "keywords": "Arm Cortex-M7 STM32F7 STM32F7x5",
+  "footprint": "Package_BGA:TFBGA-216_13x13mm_Layout15x15_P0.8mm",
+  "extends": "STM32F765N_G-I_Hx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f7@master/parts/STM32F765NIHx/",
+  "part_path": "parts/STM32F765NIHx",
+  "symbol_file": "parts/STM32F765NIHx/STM32F765NIHx.kicad_sym",
+  "source_library": "MCU_ST_STM32F7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:35.226Z"
+}

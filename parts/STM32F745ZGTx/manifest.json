@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F7/STM32F745ZGTx:STM32F745ZGTx",
+  "name": "STM32F745ZGTx",
+  "library": "MCU_ST_STM32F7",
+  "file": "MCU_ST_STM32F7.kicad_symdir/STM32F745ZGTx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 1024KB flash, 320KB RAM, 216 MHz, 1.7-3.6V, 114 GPIO, LQFP144",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f745zg.pdf",
+  "keywords": "Arm Cortex-M7 STM32F7 STM32F7x5",
+  "footprint": "Package_QFP:LQFP-144_20x20mm_P0.5mm",
+  "extends": "STM32F745Z_E-G_Tx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f7@master/parts/STM32F745ZGTx/",
+  "part_path": "parts/STM32F745ZGTx",
+  "symbol_file": "parts/STM32F745ZGTx/STM32F745ZGTx.kicad_sym",
+  "source_library": "MCU_ST_STM32F7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:34.949Z"
+}

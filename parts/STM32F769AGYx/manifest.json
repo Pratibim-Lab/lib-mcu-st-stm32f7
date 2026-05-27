@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F7/STM32F769AGYx:STM32F769AGYx",
+  "name": "STM32F769AGYx",
+  "library": "MCU_ST_STM32F7",
+  "file": "MCU_ST_STM32F7.kicad_symdir/STM32F769AGYx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 1024KB flash, 512KB RAM, 216 MHz, 1.7-3.6V, 128 GPIO, WLCSP180",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f769ag.pdf",
+  "keywords": "Arm Cortex-M7 STM32F7 STM32F7x9",
+  "footprint": "Package_CSP:ST_WLCSP-180_Die451",
+  "extends": "STM32F769A_G-I_Yx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f7@master/parts/STM32F769AGYx/",
+  "part_path": "parts/STM32F769AGYx",
+  "symbol_file": "parts/STM32F769AGYx/STM32F769AGYx.kicad_sym",
+  "source_library": "MCU_ST_STM32F7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:35.420Z"
+}

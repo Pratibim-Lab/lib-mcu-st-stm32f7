@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F7/STM32F765VITx:STM32F765VITx",
+  "name": "STM32F765VITx",
+  "library": "MCU_ST_STM32F7",
+  "file": "MCU_ST_STM32F7.kicad_symdir/STM32F765VITx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 512KB RAM, 216 MHz, 1.7-3.6V, 82 GPIO, LQFP100",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f765vi.pdf",
+  "keywords": "Arm Cortex-M7 STM32F7 STM32F7x5",
+  "footprint": "Package_QFP:LQFP-100_14x14mm_P0.5mm",
+  "extends": "STM32F765V_G-I_Tx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f7@master/parts/STM32F765VITx/",
+  "part_path": "parts/STM32F765VITx",
+  "symbol_file": "parts/STM32F765VITx/STM32F765VITx.kicad_sym",
+  "source_library": "MCU_ST_STM32F7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:35.270Z"
+}

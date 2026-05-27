@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F7/STM32F765IGKx:STM32F765IGKx",
+  "name": "STM32F765IGKx",
+  "library": "MCU_ST_STM32F7",
+  "file": "MCU_ST_STM32F7.kicad_symdir/STM32F765IGKx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 1024KB flash, 512KB RAM, 216 MHz, 1.7-3.6V, 140 GPIO, UFBGA176",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f765ig.pdf",
+  "keywords": "Arm Cortex-M7 STM32F7 STM32F7x5",
+  "footprint": "Package_BGA:UFBGA-201_10x10mm_Layout15x15_P0.65mm",
+  "extends": "STM32F765I_G-I_Kx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f7@master/parts/STM32F765IGKx/",
+  "part_path": "parts/STM32F765IGKx",
+  "symbol_file": "parts/STM32F765IGKx/STM32F765IGKx.kicad_sym",
+  "source_library": "MCU_ST_STM32F7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:35.187Z"
+}

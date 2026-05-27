@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F7/STM32F756ZGTx:STM32F756ZGTx",
+  "name": "STM32F756ZGTx",
+  "library": "MCU_ST_STM32F7",
+  "file": "MCU_ST_STM32F7.kicad_symdir/STM32F756ZGTx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 1024KB flash, 320KB RAM, 216 MHz, 1.7-3.6V, 114 GPIO, LQFP144",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f756zg.pdf",
+  "keywords": "Arm Cortex-M7 STM32F7 STM32F7x6",
+  "footprint": "Package_QFP:LQFP-144_20x20mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f7@master/parts/STM32F756ZGTx/",
+  "part_path": "parts/STM32F756ZGTx",
+  "symbol_file": "parts/STM32F756ZGTx/STM32F756ZGTx.kicad_sym",
+  "source_library": "MCU_ST_STM32F7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:35.137Z"
+}

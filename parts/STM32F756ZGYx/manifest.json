@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F7/STM32F756ZGYx:STM32F756ZGYx",
+  "name": "STM32F756ZGYx",
+  "library": "MCU_ST_STM32F7",
+  "file": "MCU_ST_STM32F7.kicad_symdir/STM32F756ZGYx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 1024KB flash, 320KB RAM, 216 MHz, 1.7-3.6V, 114 GPIO, WLCSP143",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f756zg.pdf",
+  "keywords": "Arm Cortex-M7 STM32F7 STM32F7x6",
+  "footprint": "Package_CSP:ST_WLCSP-143_Die449",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f7@master/parts/STM32F756ZGYx/",
+  "part_path": "parts/STM32F756ZGYx",
+  "symbol_file": "parts/STM32F756ZGYx/STM32F756ZGYx.kicad_sym",
+  "source_library": "MCU_ST_STM32F7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:35.148Z"
+}

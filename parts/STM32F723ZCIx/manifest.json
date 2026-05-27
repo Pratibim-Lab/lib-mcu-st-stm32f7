@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F7/STM32F723ZCIx:STM32F723ZCIx",
+  "name": "STM32F723ZCIx",
+  "library": "MCU_ST_STM32F7",
+  "file": "MCU_ST_STM32F7.kicad_symdir/STM32F723ZCIx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M7 MCU, 256KB flash, 256KB RAM, 216 MHz, 1.7-3.6V, 112 GPIO, UFBGA144",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f723zc.pdf",
+  "keywords": "Arm Cortex-M7 STM32F7 STM32F7x3",
+  "footprint": "Package_BGA:UFBGA-144_7x7mm_Layout12x12_P0.5mm",
+  "extends": "STM32F723Z_C-E_Ix",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f7@master/parts/STM32F723ZCIx/",
+  "part_path": "parts/STM32F723ZCIx",
+  "symbol_file": "parts/STM32F723ZCIx/STM32F723ZCIx.kicad_sym",
+  "source_library": "MCU_ST_STM32F7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:34.744Z"
+}
